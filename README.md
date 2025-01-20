@@ -26,7 +26,6 @@ Acest program utilizează învățarea automată pentru a detecta emoțiile expr
 - **NumPy și scikit-learn**: Folosite pentru manipularea datelor și preprocesare.
 
 ## Instalare
+![image](https://github.com/user-attachments/assets/00f9e7e2-3a98-4c92-8948-6cf25a4d288f)
 
-1. Clonează acest repository:
-   ```bash
-   git clone https://github.com/username/repository-name.git
+![image](https://github.com/user-attachments/assets/006190fa-83c7-4f3b-b306-038927fa114f)
